@@ -1,0 +1,27 @@
+[2025-08-14 02:03:27.330] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-08-14 02:03:27.331] [Xeno] [info] Version: Xeno - v1.2.50
+[2025-08-14 02:03:27.331] [Xeno] [info] Logs stored in C:\Users\ƒŒ¡–Œ∆≈À¿“≈À‹ÕŒ—“‹\Desktop\Xeno-v1.2.50U2\logs\2025-08-14_02-03-27.log
+[2025-08-14 02:03:27.331] [Xeno] [debug] Client Checker thread: 0xcca117d550
+[2025-08-14 02:03:27.331] [Xeno] [debug] Xeno Caching thread: 0xcca117d540
+[2025-08-14 02:03:27.331] [Xeno] [debug] WebSockets Cleaner thread: 0xcca117d530
+[2025-08-14 02:03:27.331] [Xeno] [debug] Xeno Server thread: 0xcca117d520
+[2025-08-14 02:03:27.332] [Cache] [info] File: C:\Xeno\XENO_CACHE.bin
+[2025-08-14 02:03:27.332] [Cache] [info] Loaded cache: 0 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 0 RBXRenderViews
+[2025-08-14 02:03:27.332] [Server] [info] Listening on http://localhost:3110
+[2025-08-14 02:03:27.338] [DiscordRPC] [info] RPC is Enabled
+[2025-08-14 02:03:36.938] [Xeno] [info] Creating new RBXClient: 19000
+[2025-08-14 02:03:36.938] [RBXClient] [info] [19000]: Initializing...
+[2025-08-14 02:03:36.938] [RBXClient] [info] [19000]: Version: version-3f74e22590714de4
+[2025-08-14 02:03:36.938] [Xeno] [debug] Created RBXClient instance @0x2988da302d0
+[2025-08-14 02:03:36.938] [Xeno] [info] Successfully created RBXClient: 19000
+[2025-08-14 02:03:36.939] [RBXClient] [debug] [19000]: Getting RenderView...
+[2025-08-14 02:03:37.090] [RBXClient] [debug] [19000]: String: 0x15359dd24d0
+[2025-08-14 02:03:37.090] [RBXClient] [debug] [19000]: Renderview: 0x1534737d000
+[2025-08-14 02:03:37.090] [RBXClient] [debug] [19000]: DataModel: 0x1534c82e638
+[2025-08-14 02:03:37.090] [RBXClient] [debug] [19000]: LocalPlayer: 0x15358e59a80
+[2025-08-14 02:03:37.090] [RBXClient] [debug] [19000]: LocalPlayer Name: 'Beneviolent52'
+[2025-08-14 02:03:37.091] [RBXClient] [debug] [19000]: EventConnection: 0x15352748a00
+[2025-08-14 02:03:37.146] [RBXClient] [debug] [19000]: StyledTextLabel: 0x15356335800
+[2025-08-14 02:03:37.212] [RBXClient] [info] [19000]: StyledTextLabel SSS was set to 0
+[2025-08-14 02:03:41.940] [RBXClient] [trace] [19000]: Attach ping recieved, restored bytecode.
+[2025-08-14 02:07:18.461] [Execution] [error] [19000]: Could not find a CoreModule
